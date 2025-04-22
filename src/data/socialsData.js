@@ -1,0 +1,15 @@
+export const socialsData = {
+  github: "https://github.com/Devansh1741",
+  facebook: "=",
+  linkedIn: "https://www.linkedin.com/in/devansh-rathore/",
+  instagram: "",
+  codepen: "",
+  twitter: "",
+  reddit: "",
+  blogger: "",
+  medium: "",
+  stackOverflow: "",
+  gitlab: "",
+  youtube: "",
+  leetcode: "https://leetcode.com/u/Devansh1741/",
+};
